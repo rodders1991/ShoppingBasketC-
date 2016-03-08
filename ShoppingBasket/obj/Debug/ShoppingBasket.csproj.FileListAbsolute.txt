@@ -1,0 +1,6 @@
+C:\Users\George\Documents\Visual Studio 2013\Projects\ShoppingBasket\ShoppingBasket\bin\Debug\ShoppingBasket.exe.config
+C:\Users\George\Documents\Visual Studio 2013\Projects\ShoppingBasket\ShoppingBasket\bin\Debug\ShoppingBasket.exe
+C:\Users\George\Documents\Visual Studio 2013\Projects\ShoppingBasket\ShoppingBasket\bin\Debug\ShoppingBasket.pdb
+C:\Users\George\Documents\Visual Studio 2013\Projects\ShoppingBasket\ShoppingBasket\obj\Debug\ShoppingBasket.csprojResolveAssemblyReference.cache
+C:\Users\George\Documents\Visual Studio 2013\Projects\ShoppingBasket\ShoppingBasket\obj\Debug\ShoppingBasket.exe
+C:\Users\George\Documents\Visual Studio 2013\Projects\ShoppingBasket\ShoppingBasket\obj\Debug\ShoppingBasket.pdb
